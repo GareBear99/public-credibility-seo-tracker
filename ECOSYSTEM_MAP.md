@@ -1,39 +1,45 @@
 # Ecosystem Map
 
-## ARC Local AI / AGI Infrastructure Cluster
+This repo tracks public credibility and SEO submission routes for two connected clusters.
 
-This cluster should be cross-linked internally on LibHunt and future directory platforms.
+## ARC Local AI / AGI Infrastructure
 
-| Project | Role | Repository |
-|---|---|---|
-| ARC-Neuron-LLMBuilder | Local cognition-core builder / GGUF-focused LLM workshop | https://github.com/GareBear99/ARC-Neuron-LLMBuilder |
-| ARC-Core | Authority, receipts, governance, runtime-control console | https://github.com/GareBear99/ARC-Core |
-| arc-lucifer-cleanroom-runtime | Local cleanroom AI execution/runtime layer | https://github.com/GareBear99/arc-lucifer-cleanroom-runtime |
-| arc-language-module | Language, NLP, lineage, transliteration, cognition data layer | https://github.com/GareBear99/arc-language-module |
-| Arc-RAR | Archival, reproducibility, receipts, packaging/restore layer | https://github.com/GareBear99/Arc-RAR |
+| Project | Function |
+|---|---|
+| ARC-Neuron-LLMBuilder | Local-first cognition-core builder and GGUF/LLM workshop. |
+| ARC-Core | Local authority, receipt, governance, routing, and runtime-control console. |
+| arc-lucifer-cleanroom-runtime | Local cleanroom runtime for offline inference, token streaming, and event capture. |
+| arc-language-module | Language/cognition data module for linguistic structure and language-learning workflows. |
+| Arc-RAR | Local archive/reproducibility layer for project, receipt, and AI-run packaging. |
 
-### ARC LibHunt Cross-Link Map
+## TizWildin Audio / Creator Tools
 
-- ARC-Neuron-LLMBuilder → ARC-Core, arc-lucifer-cleanroom-runtime, arc-language-module, Arc-RAR
-- ARC-Core → ARC-Neuron-LLMBuilder, arc-lucifer-cleanroom-runtime, arc-language-module, Arc-RAR
-- arc-lucifer-cleanroom-runtime → ARC-Neuron-LLMBuilder, ARC-Core, arc-language-module, Arc-RAR
-- arc-language-module → ARC-Neuron-LLMBuilder, ARC-Core, arc-lucifer-cleanroom-runtime, Arc-RAR
-- Arc-RAR → ARC-Core, ARC-Neuron-LLMBuilder, arc-lucifer-cleanroom-runtime, arc-language-module
+| Project | Function |
+|---|---|
+| FreeEQ8 | Flagship free open-source EQ plugin. |
+| TizWildinEntertainmentHUB | Public discovery dashboard for tools, plugins, packs, downloads, and updates. |
+| FreeVox8 | Free vocoder/spectral voice-processing plugin. |
+| awesome-audio-plugins-dev | Curated open-source audio/plugin/dev resource list. |
+| TizWildin-IO | Sample-pack and creator-resource router. |
+| Voxel_Audio | RGB waveform visualizer and creator export tool. |
+| Free-808-Producer-Kit | Free 808/sample pack resource. |
+| TizWildin-Chime | Free chime/one-shot sample pack. |
+| PaintMask | Experimental visual masking / creative DSP plugin concept. |
 
-## TizWildin Audio / Creator Tools Cluster
+## Cross-Link Strategy
 
-This cluster should be cross-linked internally on LibHunt and future directory platforms.
+The public graph should show that each repo belongs to a larger ecosystem, not isolated one-off projects.
 
-| Project | Role | Repository |
-|---|---|---|
-| FreeEQ8 | Free open-source JUCE/C++ EQ plugin | https://github.com/GareBear99/FreeEQ8 |
-| TizWildinEntertainmentHUB | Public ecosystem hub for plugins, sample packs, downloads, updates | https://github.com/GareBear99/TizWildinEntertainmentHUB |
-| FreeVox8 | Free open-source JUCE/C++ vocoder / spectral voice plugin | https://github.com/GareBear99/FreeVox8 |
-| awesome-audio-plugins-dev | Curated audio plugin and music-production resource list | https://github.com/GareBear99/awesome-audio-plugins-dev |
+- ARC repos cross-link with ARC repos.
+- TizWildin audio/plugin/resource repos cross-link with TizWildin repos.
+- HUB acts as the main public landing point for the audio/creator cluster.
+- FreeEQ8 acts as the flagship plugin credibility anchor.
+- ARC-Neuron and ARC-Core act as the flagship AI credibility anchors.
 
-### Audio LibHunt Cross-Link Map
 
-- FreeEQ8 → TizWildinEntertainmentHUB, FreeVox8, awesome-audio-plugins-dev
-- TizWildinEntertainmentHUB → FreeEQ8, FreeVox8, awesome-audio-plugins-dev
-- FreeVox8 → FreeEQ8, TizWildinEntertainmentHUB, awesome-audio-plugins-dev
-- awesome-audio-plugins-dev → FreeEQ8, FreeVox8, TizWildinEntertainmentHUB
+## TizWildin-IO Website Capture Update
+
+- Added `platforms/tizwildin-io-website-capture.md`.
+- Updated `projects/TizWildin-IO.md` with public-facing descriptions, topics, pack catalog, cross-links, and LibHunt submission routing.
+- Added evidence notes under `evidence/notes/tizwildin-io/`.
+- Current rule: finish the primary LibHunt audio graph first, then submit TizWildin-IO as the sample-pack / producer-resource router.

@@ -69,3 +69,15 @@ This repo documents where each project has been submitted, what metadata was use
 - [`platforms/arc-validated-lists.md`](platforms/arc-validated-lists.md) — ARC list/directory targets
 - [`platforms/audio-validated-lists.md`](platforms/audio-validated-lists.md) — audio list/directory targets
 - [`platforms/github-topics.md`](platforms/github-topics.md) — topic sets for each repo
+
+## v3 Update: TizWildin Cluster + Indexed Audio Routes
+
+This package now includes the completed TizWildin ecosystem submission cluster plan and the indexed audio discovery routes:
+
+- `platforms/tizwildin-ecosystem-cluster.md`
+- `platforms/audio-directory-index.md`
+- `platforms/audio-awesome-list-index.md`
+- `platforms/tizwildin-github-topics.md`
+- `LIST_INDEX.md`
+
+The current operating rule is: finish the LibHunt graph first, then move to GitHub Topics, Open Hub, SourceForge, KVR Audio, audio plugin databases, awesome-list PRs, and alternative directories.

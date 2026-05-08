@@ -1,80 +1,81 @@
 # Internal Notes
 
-These are working notes for the public credibility and SEO submission route.
+These notes track the real operating state. This file is for internal planning, not polished marketing copy.
 
-## Current LibHunt State
+## Current Reality
 
-LibHunt is the first platform route.
+- LibHunt is the first platform.
+- ARC-Neuron-LLMBuilder is started.
+- ARC-Core is started as the first ARC alternative.
+- FreeEQ8 is started.
+- TizWildinEntertainmentHUB is started as the first FreeEQ8 alternative.
+- The immediate job is not to chase every platform yet; the job is to finish both ecosystem graphs on LibHunt first.
 
-### Audio seed
+## ARC Next Actions
 
-- FreeEQ8 has been started on LibHunt.
-- Its first internal alternative is TizWildinEntertainmentHUB.
-- Next objective: complete the whole TizWildin audio ecosystem around it.
+1. Submit / complete arc-lucifer-cleanroom-runtime.
+2. Submit / complete arc-language-module.
+3. Submit / complete Arc-RAR.
+4. Cross-link all five ARC repos as alternatives.
+5. Save screenshots/evidence.
 
-Audio ecosystem target set:
+## TizWildin Next Actions
 
-1. FreeEQ8
-2. TizWildinEntertainmentHUB
-3. FreeVox8
-4. awesome-audio-plugins-dev
+1. Submit / complete FreeVox8.
+2. Submit / complete awesome-audio-plugins-dev.
+3. Add FreeVox8 and awesome-audio-plugins-dev as alternatives to FreeEQ8.
+4. Add FreeEQ8, HUB, and awesome-audio-plugins-dev as alternatives to FreeVox8.
+5. Add FreeEQ8, FreeVox8, and HUB as alternatives to awesome-audio-plugins-dev.
+6. After first-wave graph, decide whether to add TizWildin-IO and Voxel_Audio to LibHunt wave 2.
 
-Optional later additions:
+## Indexed Routes Added
 
-- Voxel_Audio
-- TizWildin-IO
-- Free-808-Producer-Kit
-- TizWildin-Chime
-- PaintMask
-- Maid Suite repos when public/polished
+- TizWildin ecosystem graph
+- Audio plugin directory index
+- Audio awesome-list index
+- TizWildin GitHub topics
+- Master public list index
 
-### ARC seed
+## Platform Order
 
-- ARC-Neuron-LLMBuilder has been started on LibHunt.
-- Its first internal alternative is ARC-Core.
-- Next objective: complete the whole ARC local AI ecosystem around it.
+```text
+LibHunt first.
+GitHub topics second.
+Open Hub third.
+SourceForge fourth.
+KVR / audio databases fifth.
+Awesome-list PRs sixth.
+Alternative directories seventh.
+Public launches last.
+```
 
-ARC ecosystem target set:
+## Submission Quality Rule
 
-1. ARC-Neuron-LLMBuilder
-2. ARC-Core
-3. arc-lucifer-cleanroom-runtime
-4. arc-language-module
-5. Arc-RAR
+Every public listing should repeat the same truthful positioning:
 
-Optional later additions:
+- FreeEQ8 = free open-source JUCE/C++ EQ plugin.
+- FreeVox8 = free open-source JUCE/C++ vocoder/spectral voice plugin.
+- HUB = public discovery dashboard for the ecosystem.
+- awesome-audio-plugins-dev = curated audio/plugin/dev resource list.
+- TizWildin-IO = sample-pack and creator-resource router.
+- Voxel_Audio = RGB waveform visualizer/export creator tool.
 
-- ARC-Turbo-OS
-- A-real-time-spatial-signal-intelligence-engine
-- Proto-Synth_Grid_Engine
+Do not overclaim unreleased features. If a feature is directional, say “direction,” “planned,” or “architecture target.”
 
-## Rule
 
-Do not jump platforms until the first LibHunt graph is clean enough:
+## TizWildin-IO Website Capture Update
 
-- Seed projects submitted
-- Details complete
-- Alternatives/cross-links entered
-- Evidence saved
-- Public listing URLs recorded
+- Added `platforms/tizwildin-io-website-capture.md`.
+- Updated `projects/TizWildin-IO.md` with public-facing descriptions, topics, pack catalog, cross-links, and LibHunt submission routing.
+- Added evidence notes under `evidence/notes/tizwildin-io/`.
+- Current rule: finish the primary LibHunt audio graph first, then submit TizWildin-IO as the sample-pack / producer-resource router.
 
-## Validated List Strategy
+## Correction: `.io` ecosystem page capture
 
-ARC validated lists are tracked in `platforms/arc-validated-lists.md`.
-Audio validated lists are tracked in `platforms/audio-validated-lists.md`.
-GitHub topic sets are tracked in `platforms/github-topics.md`.
+The `.io` ecosystem page is the TizWildinEntertainmentHUB public GitHub Pages dashboard, not only the TizWildin-IO sample-pack lane. The corrected capture is now stored in:
 
-## Next Platform After LibHunt
+- `platforms/tizwildin-dot-io-ecosystem.md`
+- `platforms/tizwildin-io-website-capture.md`
+- `evidence/notes/tizwildin-io/public-surface-capture.md`
 
-Move to GitHub Topics cleanup next because it is the easiest native SEO win and can be checked/updated repo-by-repo.
-
-Then move to Open Hub and SourceForge.
-
-## Notes on public messaging
-
-Keep every submission honest and current:
-
-- Say local-first/offline-oriented when that is true.
-- Say planning/prototype where the repo is not production-ready.
-- Do not overclaim model training, AGI, surveillance, or production hardware readiness.
-- Emphasize reproducibility, receipts, deterministic workflows, open-source tooling, and ecosystem structure.
+Use the HUB as the public front door for audio ecosystem submissions. Treat TizWildin-IO as one route inside the bigger HUB ecosystem.

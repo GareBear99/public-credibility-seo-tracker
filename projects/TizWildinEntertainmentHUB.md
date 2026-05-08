@@ -4,51 +4,58 @@
 
 https://github.com/GareBear99/TizWildinEntertainmentHUB
 
-## Cluster
+## Public website
 
-TizWildin Audio
+https://garebear99.github.io/TizWildinEntertainmentHUB/
 
 ## Category
 
-Music Production Hub / Audio Tools / Sample Packs / Free Plugins
+Audio Plugin Hub / Creator Tool Dashboard / Music Production Ecosystem / GitHub Pages Dashboard / Plugin Manager
 
 ## Public Description Used
 
-TizWildinEntertainmentHUB is the main public hub for the TizWildin / GareBear99 creator ecosystem, connecting free audio plugins, producer tools, sample packs, visualizers, downloads, updates, and open-source music-production resources in one discovery dashboard.
+TizWildinEntertainmentHUB is the public `.io` front door for the GareBear99 / TizWildin open-source audio ecosystem, connecting free audio plugins, sample packs, visualizers, lists, release surfaces, and creator tools through one dashboard.
+
+## Expanded Description
+
+TizWildinEntertainmentHUB is a free-version-first audio ecosystem hub for plugins, producer tools, sample packs, and creator resources. It connects VST3/AU/Standalone plugin routes, GitHub release tracking, manifests, dashboard browsing, list routers, free packs, release vault links, and public TizWildin creator surfaces.
 
 ## Topics Used
 
-music-production,audio-plugins,free-plugins,vst3,au,juce,dsp,sample-packs,producer-tools,creator-tools,audio-tools,music-tools,open-source-audio,freeeq8,freevox8,voxel-audio,tizwildin,github-pages,web-dashboard
-
-## Details
-
-| Field | Value |
-|---|---|
-| Official Website URL | https://garebear99.github.io/TizWildinEntertainmentHUB/ |
-| Official Docs URL | https://github.com/GareBear99/TizWildinEntertainmentHUB#readme |
-| Programming Language | HTML |
-| License | MIT |
-| Self-Hosted | No |
+music-production,audio-plugins,free-plugins,vst3,au,juce,dsp,sample-packs,producer-tools,creator-tools,audio-tools,music-tools,open-source-audio,freeeq8,freevox8,voxel-audio,tizwildin,github-pages,web-dashboard,plugin-manager
 
 ## Platforms Submitted
 
-| Platform | Public URL | Status | Date | Notes |
+| Platform | URL | Status | Date | Notes |
 |---|---|---|---|---|
-| LibHunt | Pending | Active |  | First FreeEQ8 alternative on LibHunt. |
-| GitHub Topics | Repo Settings/API | Pending |  | Normalize topics after LibHunt graph is complete. |
-| Open Hub | Pending | Pending |  | Add after GitHub topic cleanup. |
+| LibHunt | Pending/Added | Submitted | 2026-05-08 | First-wave audio ecosystem listing |
 
 ## Alternatives / Cross Links
 
 - FreeEQ8
 - FreeVox8
 - awesome-audio-plugins-dev
+- Voxel_Audio
+- TizWildin-IO
+- PaintMask
+- Instrudio
+- XyloCore
+- Therum
+- Maid Suite projects
 
-## Next Action
+## Public `.io` content captured
 
-Complete the audio LibHunt graph around HUB, FreeEQ8, FreeVox8, and awesome-audio-plugins-dev.
+The public ecosystem page indexes:
 
-## Evidence Path
+- flagship plugins: FreeEQ8, Therum
+- instruments: Instrudio, XyloCore
+- Maid Suite: BassMaid, SpaceMaid, GlueMaid, MixMaid, MultiMaid, MeterMaid, ChainMaid
+- sound-design/experimental tools: RiftWave, PaintMask, WURP, AETHER, WhisperGate, FreeSampler, VF-PlexLab, PAP-Forge-Audio
+- free sample packs: Aurora, Obsidian, Skyline, Chroma, Chime, Free Violin Synth Sample Kit, Free Dark Piano Sound Kit, Free 808 Producer Kit, Free Riser Producer Kit, Phonk Producer Toolkit, Free Future Bass Producer Kit
+- related routes: SoundCloud, YouTube, Facebook, Voxel Audio, Release Vault, Awesome Audio Plugins Dev, Awesome Audio Lists, Awesome Music Platforms, Awesome Python Audio Science
 
-- Screenshots: `evidence/screenshots/TizWildinEntertainmentHUB/`
-- Confirmations: `evidence/confirmations/TizWildinEntertainmentHUB/`
+## Evidence
+
+- `platforms/tizwildin-io-website-capture.md`
+- `platforms/tizwildin-dot-io-ecosystem.md`
+- `evidence/notes/tizwildin-io/public-surface-capture.md`

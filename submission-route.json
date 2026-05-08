@@ -1,26 +1,64 @@
 {
+  "version": "v3",
   "current_platform": "LibHunt",
-  "rule": "Finish LibHunt internal ecosystem graphs before moving to the next platform.",
   "current_state": {
-    "ARC-Neuron-LLMBuilder": "ARC-Core alternative started",
-    "FreeEQ8": "TizWildinEntertainmentHUB alternative started"
+    "arc": "ARC-Neuron-LLMBuilder started; ARC-Core alternative started",
+    "tizwildin": "FreeEQ8 started; TizWildinEntertainmentHUB alternative started"
   },
-  "next_libhunt_arc": [
-    "arc-lucifer-cleanroom-runtime",
-    "arc-language-module",
-    "Arc-RAR"
-  ],
-  "next_libhunt_audio": [
-    "FreeVox8",
-    "awesome-audio-plugins-dev"
-  ],
-  "next_platforms": [
+  "active_clusters": {
+    "arc": [
+      "ARC-Neuron-LLMBuilder",
+      "ARC-Core",
+      "arc-lucifer-cleanroom-runtime",
+      "arc-language-module",
+      "Arc-RAR"
+    ],
+    "tizwildin_first_wave": [
+      "FreeEQ8",
+      "TizWildinEntertainmentHUB",
+      "FreeVox8",
+      "awesome-audio-plugins-dev"
+    ],
+    "tizwildin_second_wave": [
+      "TizWildin-IO",
+      "Voxel_Audio",
+      "Free-808-Producer-Kit",
+      "TizWildin-Chime",
+      "PaintMask"
+    ]
+  },
+  "next_route_order": [
+    "Finish LibHunt graphs",
     "GitHub Topics",
     "Open Hub",
     "SourceForge",
-    "Validated Awesome Lists",
-    "OpenAlternative",
-    "OpenSourceAlternative.to",
-    "AlternativeTo"
+    "KVR Audio",
+    "Audio plugin directories",
+    "Awesome-list PRs",
+    "OpenAlternative/OpenSourceAlternative.to",
+    "AlternativeTo",
+    "Editorial/community launches"
+  ],
+  "new_files": [
+    "LIST_INDEX.md",
+    "platforms/tizwildin-ecosystem-cluster.md",
+    "platforms/audio-directory-index.md",
+    "platforms/audio-awesome-list-index.md",
+    "platforms/tizwildin-github-topics.md"
+  ],
+  "captures": [
+    {
+      "name": "TizWildin-IO public surface capture",
+      "file": "platforms/tizwildin-io-website-capture.md",
+      "status": "captured",
+      "purpose": "Index public sample-pack website/repo language, free pack catalog, and LibHunt submission routing."
+    }
+  ],
+  "next_libhunt_wave": [
+    "TizWildin-IO",
+    "Voxel_Audio",
+    "Free-808-Producer-Kit",
+    "TizWildin-Chime",
+    "PaintMask"
   ]
 }

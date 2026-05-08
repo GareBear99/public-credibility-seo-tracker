@@ -1,76 +1,85 @@
 # Next Steps
 
-## Immediate: Finish LibHunt Before Platform Jumping
+## Current Phase: Finish LibHunt First
 
-### 1. Finish ARC LibHunt ecosystem
+Do not jump platforms until both internal graphs are complete enough to compound.
 
-Current seed:
+## 1. Finish ARC LibHunt Graph
 
-- ARC-Neuron-LLMBuilder has ARC-Core as an alternative.
+```text
+ARC-Neuron-LLMBuilder ↔ ARC-Core ↔ arc-lucifer-cleanroom-runtime ↔ arc-language-module ↔ Arc-RAR
+```
 
-Next additions:
+Minimum finish state:
 
-1. Submit/edit `arc-lucifer-cleanroom-runtime`.
-2. Submit/edit `arc-language-module`.
-3. Submit/edit `Arc-RAR`.
-4. Add all four ARC repos as alternatives around ARC-Neuron-LLMBuilder and ARC-Core.
-5. Save evidence screenshots / listing URLs.
-6. Update `STATUS_BOARD.md` and each `projects/*.md` file.
+- ARC-Neuron has ARC-Core, Lucifer Runtime, language module, and Arc-RAR alternatives.
+- ARC-Core has ARC-Neuron, Lucifer Runtime, language module, and Arc-RAR alternatives.
+- Lucifer Runtime is submitted and linked to ARC-Neuron + ARC-Core.
+- arc-language-module is submitted and linked to ARC-Neuron + ARC-Core.
+- Arc-RAR is submitted and linked to ARC-Core + ARC-Neuron.
 
-### 2. Finish Audio LibHunt ecosystem
+## 2. Finish TizWildin LibHunt Graph
 
-Current seed:
+```text
+FreeEQ8 ↔ TizWildinEntertainmentHUB ↔ FreeVox8 ↔ awesome-audio-plugins-dev
+```
 
-- FreeEQ8 has TizWildinEntertainmentHUB as an alternative.
+Minimum finish state:
 
-Next additions:
+- FreeEQ8 has HUB, FreeVox8, and awesome-audio-plugins-dev alternatives.
+- HUB has FreeEQ8, FreeVox8, and awesome-audio-plugins-dev alternatives.
+- FreeVox8 is submitted and cross-linked.
+- awesome-audio-plugins-dev is submitted and cross-linked.
 
-1. Submit/edit `FreeVox8`.
-2. Submit/edit `awesome-audio-plugins-dev`.
-3. Add all audio alternatives around FreeEQ8 and the HUB.
-4. Save evidence screenshots / listing URLs.
-5. Update `STATUS_BOARD.md` and each `projects/*.md` file.
+Wave-2 support after core graph:
 
-## After LibHunt
+```text
+TizWildin-IO → HUB, Free-808-Producer-Kit, TizWildin-Chime, Voxel_Audio
+Voxel_Audio → HUB, TizWildin-IO, FreeEQ8
+PaintMask → FreeEQ8, FreeVox8, HUB
+```
 
-### 3. GitHub Topics cleanup
+## 3. Clean GitHub Topics
 
-Normalize topics across all 9 repos using `platforms/github-topics.md`.
+Apply `platforms/github-topics.md` and `platforms/tizwildin-github-topics.md` topic sets.
 
-### 4. Open Hub
+## 4. Move to Public Indexes
 
-Add all 9 repos for open-source credibility indexing.
+Next route order:
 
-### 5. SourceForge
+```text
+Open Hub
+SourceForge
+KVR Audio
+Audio Plugins for Free
+awesome-juce / OpenAudio / awesome-audio-dsp
+OpenAlternative / OpenSourceAlternative.to
+AlternativeTo
+Editorial/community launches
+```
 
-Start with:
+## 5. Evidence Discipline
 
-1. FreeEQ8
-2. FreeVox8
-3. ARC-Core
-4. ARC-Neuron-LLMBuilder
+For every submission:
 
-### 6. Validated awesome list PRs
+- save screenshot under `evidence/screenshots/<project>/`
+- save confirmation under `evidence/confirmations/<project>/`
+- write quick note under `evidence/notes/<project>/`
+- update `STATUS_BOARD.md`
+- update project record
 
-ARC first:
 
-1. awesome-local-llm
-2. awesome-local-ai
-3. awesome-llm-services
-4. awesome-ai-agents
+## TizWildin-IO Website Capture Update
 
-Audio next:
+- Added `platforms/tizwildin-io-website-capture.md`.
+- Updated `projects/TizWildin-IO.md` with public-facing descriptions, topics, pack catalog, cross-links, and LibHunt submission routing.
+- Added evidence notes under `evidence/notes/tizwildin-io/`.
+- Current rule: finish the primary LibHunt audio graph first, then submit TizWildin-IO as the sample-pack / producer-resource router.
 
-1. awesome-juce
-2. awesome-music-production
-3. awesome-audio-dsp
+## Corrected TizWildin `.io` next step
 
-### 7. Public launch/community routes
+The next LibHunt and directory work should point the audio cluster back to:
 
-Only after READMEs, screenshots, install flows, and listing URLs are clean:
+https://garebear99.github.io/TizWildinEntertainmentHUB/
 
-- Show HN
-- r/LocalLLaMA
-- r/selfhosted
-- r/opensource
-- Product Hunt
+Use this as the main public ecosystem front door, then route out to individual repos, packs, release vault, visualizers, and awesome lists.

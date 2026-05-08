@@ -2,18 +2,28 @@
 
 | Platform | Category | Projects | Status | Notes |
 |---|---|---|---|---|
-| LibHunt | Open-source directory / alternatives graph | ARC + Audio first wave | Active | First credibility/SEO route. Finish internal ecosystem graph first. |
-| GitHub Topics | Native GitHub SEO | All 9 repos | Pending | Use `platforms/github-topics.md`. |
-| Open Hub | Open-source credibility indexing | All 9 repos | Pending | Add after LibHunt and GitHub topics. |
-| SourceForge | Public project mirrors/listings | FreeEQ8, FreeVox8, ARC-Core, ARC-Neuron | Pending | Useful for project pages and releases/downloads. |
-| awesome-local-llm | Curated local LLM list | ARC-Neuron, Lucifer Runtime | Pending | PR/issue after README polish. |
-| awesome-local-ai | Curated local AI list | ARC-Neuron, ARC-Core, Lucifer Runtime | Pending | PR/issue after README polish. |
-| awesome-llm-services | Self-hostable LLM services/tools | ARC-Neuron, Lucifer Runtime, ARC-Core | Pending | PR/issue. |
-| awesome-ai-agents | AI agent list | ARC-Core, ARC-Neuron | Pending | Best after agent/runtime-control framing is clear. |
-| OpenAlternative | Open-source alternative directory | ARC-Core, ARC-Neuron, FreeEQ8, FreeVox8 | Pending | Good after stronger alternative-to sections. |
-| OpenSourceAlternative.to | Open-source alternatives | ARC + Audio | Pending | Good after screenshots/demos. |
-| AlternativeTo | Crowdsourced alternatives graph | ARC + Audio | Pending | Manual. |
-| Audio plugin directories | Music production discovery | FreeEQ8, FreeVox8 | Pending | KVR-style directories after plugin pages are polished. |
-| Reddit communities | Community validation | ARC + Audio | Pending | Use demo story, not cold links. |
-| Show HN | Developer launch | ARC-Core / ARC-Neuron | Pending | Only after clean install/demo. |
-| Editorial Reviews | Credibility outreach | FreeEQ8, FreeVox8 | Pending | SoundOnSound etc. after release pages. |
+| LibHunt | Open-source directory | ARC + TizWildin first wave | Active | First credibility/SEO route. Finish alternatives graph. |
+| GitHub Topics | Native GitHub SEO | All repos | Indexed | Topic sets prepared for ARC and TizWildin clusters. |
+| Open Hub | Open-source credibility | All open-source repos | Indexed | Add after LibHunt graph is complete. |
+| SourceForge | Project mirror/download discovery | FreeEQ8, FreeVox8, ARC-Core, ARC-Neuron | Indexed | Use for release/download/stat tracking. |
+| KVR Audio | Audio plugin database | FreeEQ8, FreeVox8 | Indexed | Developer account and product/news route. |
+| Audio Plugins for Free | Free plugin discovery | FreeEQ8, FreeVox8 | Indexed | Manual/editorial route. |
+| Bedroom Producers Blog | Free plugin editorial | FreeEQ8, FreeVox8 | Indexed | Use after clean releases/demo. |
+| awesome-juce | Curated GitHub list | FreeEQ8, FreeVox8 | Indexed | PR to sites.txt after README polish. |
+| OpenAudio | Open-source audio list | FreeEQ8, FreeVox8 | Indexed | PR/issue after repo polish. |
+| awesome-audio-dsp | Curated DSP list | FreeEQ8, FreeVox8 | Indexed | Requires strong DSP documentation. |
+| awesome-musicdsp | Curated DSP list | FreeEQ8, FreeVox8 | Indexed | Developer-facing DSP route. |
+| OpenAlternative | Open-source alternatives | ARC + audio repos | Indexed | Use alternative-to-paid-tools framing. |
+| OpenSourceAlternative.to | Open-source alternatives | ARC + audio repos | Indexed | Use after README includes alternative positioning. |
+| AlternativeTo | Public alternatives graph | FreeEQ8, FreeVox8, Voxel_Audio, ARC repos | Indexed | Manual, consumer-facing. |
+| Editorial Reviews | Press/review outreach | FreeEQ8 first, ARC-Core second | Pending | Use after screenshots/releases are clean. |
+| Reddit Communities | Community launch | Local AI + audio tools | Pending | Use after proof/demo media. |
+| Show HN / Product Hunt | Launch platforms | Strongest polished repos only | Pending | Not before public pages are tight. |
+
+
+## TizWildin-IO Website Capture Update
+
+- Added `platforms/tizwildin-io-website-capture.md`.
+- Updated `projects/TizWildin-IO.md` with public-facing descriptions, topics, pack catalog, cross-links, and LibHunt submission routing.
+- Added evidence notes under `evidence/notes/tizwildin-io/`.
+- Current rule: finish the primary LibHunt audio graph first, then submit TizWildin-IO as the sample-pack / producer-resource router.

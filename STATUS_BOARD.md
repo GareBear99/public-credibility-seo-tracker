@@ -1,28 +1,50 @@
 # Status Board
 
-## LibHunt First Wave
+## First-Wave ARC Cluster
 
-| Project | Cluster | LibHunt Submitted | Details Added | Alternatives Added | Evidence Saved | Status |
-|---|---|---:|---:|---:|---:|---|
-| ARC-Neuron-LLMBuilder | ARC AI | ✅ | ✅ | ARC-Core started | Pending | Active |
-| ARC-Core | ARC AI | ✅ | ✅ | ARC-Neuron started | Pending | Active |
-| arc-lucifer-cleanroom-runtime | ARC AI | Pending | Pending | Pending | Pending | Next |
-| arc-language-module | ARC AI | Pending | Pending | Pending | Pending | Next |
-| Arc-RAR | ARC AI | Pending | Pending | Pending | Pending | Next |
-| FreeEQ8 | Audio | ✅ | ✅ | HUB started | Pending | Active |
-| TizWildinEntertainmentHUB | Audio | ✅ | ✅ | FreeEQ8 started | Pending | Active |
-| FreeVox8 | Audio | Pending | Pending | Pending | Pending | Next |
-| awesome-audio-plugins-dev | Audio | Pending | Pending | Pending | Pending | Next |
+| Project | LibHunt Submitted | Details Added | Alternatives Added | Evidence Saved | Status |
+|---|---:|---:|---:|---:|---|
+| ARC-Neuron-LLMBuilder | ✅ | ✅ | ARC-Core started | Pending | Active |
+| ARC-Core | ✅ | ✅ | ARC-Neuron started | Pending | Active |
+| arc-lucifer-cleanroom-runtime | Pending | Pending | Pending | Pending | Next |
+| arc-language-module | Pending | Pending | Pending | Pending | Next |
+| Arc-RAR | Pending | Pending | Pending | Pending | Next |
+
+## First-Wave TizWildin / Audio Cluster
+
+| Project | LibHunt Submitted | Details Added | Alternatives Added | Evidence Saved | Status |
+|---|---:|---:|---:|---:|---|
+| FreeEQ8 | ✅ | ✅ | HUB started | Pending | Active |
+| TizWildinEntertainmentHUB | ✅ | ✅ | FreeEQ8 started | Pending | Active |
+| FreeVox8 | Pending | Pending | Pending | Pending | Next |
+| awesome-audio-plugins-dev | Pending | Pending | Pending | Pending | Next |
+
+## Wave-2 TizWildin Support Cluster
+
+| Project | LibHunt Submitted | Details Added | Alternatives Added | Evidence Saved | Status |
+|---|---:|---:|---:|---:|---|
+| TizWildin-IO | Pending | Drafted | Pending | Pending | Wave 2 |
+| Voxel_Audio | Pending | Drafted | Pending | Pending | Wave 2 |
+| Free-808-Producer-Kit | Pending | Drafted | Pending | Pending | Wave 2 |
+| TizWildin-Chime | Pending | Drafted | Pending | Pending | Wave 2 |
+| PaintMask | Pending | Drafted | Pending | Pending | Wave 2 |
 
 ## Platform Route Status
 
-| Platform | Purpose | Status | Next Action |
-|---|---|---|---|
-| LibHunt | First public alternative graph / SEO directory | Active | Finish both ecosystem clusters |
-| GitHub Topics | Native GitHub SEO | Pending | Normalize topics across 9 repos |
-| Open Hub | Open-source credibility indexing | Pending | Add all 9 repos |
-| SourceForge | Project pages / mirrors / releases | Pending | Start with FreeEQ8, FreeVox8, ARC-Core, ARC-Neuron |
-| ARC validated lists | Local LLM / AI agents / self-hosted AI | Pending | Use `platforms/arc-validated-lists.md` |
-| Audio validated lists | JUCE / audio DSP / music production | Pending | Use `platforms/audio-validated-lists.md` |
-| Alternative directories | Public alternatives graph | Pending | OpenAlternative, OpenSourceAlternative.to, AlternativeTo |
-| Launch/community | Community validation | Pending | Show HN, Reddit, Product Hunt after polish |
+| Platform Route | Status | Notes |
+|---|---|---|
+| LibHunt | Active | Finish ARC and TizWildin internal graphs first. |
+| GitHub Topics | Indexed | Topic sets drafted for ARC and TizWildin clusters. |
+| Open Hub | Indexed | Add all repos after LibHunt graph. |
+| SourceForge | Indexed | Use for repos with release/download value. |
+| KVR Audio | Indexed | Submit FreeEQ8 then FreeVox8. |
+| Audio awesome lists | Indexed | Submit PRs after README polish. |
+| OpenAlternative / AlternativeTo | Indexed | Use after project pages are clean. |
+
+
+## TizWildin-IO Website Capture Update
+
+- Added `platforms/tizwildin-io-website-capture.md`.
+- Updated `projects/TizWildin-IO.md` with public-facing descriptions, topics, pack catalog, cross-links, and LibHunt submission routing.
+- Added evidence notes under `evidence/notes/tizwildin-io/`.
+- Current rule: finish the primary LibHunt audio graph first, then submit TizWildin-IO as the sample-pack / producer-resource router.
