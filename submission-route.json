@@ -1,0 +1,26 @@
+{
+  "current_platform": "LibHunt",
+  "rule": "Finish LibHunt internal ecosystem graphs before moving to the next platform.",
+  "current_state": {
+    "ARC-Neuron-LLMBuilder": "ARC-Core alternative started",
+    "FreeEQ8": "TizWildinEntertainmentHUB alternative started"
+  },
+  "next_libhunt_arc": [
+    "arc-lucifer-cleanroom-runtime",
+    "arc-language-module",
+    "Arc-RAR"
+  ],
+  "next_libhunt_audio": [
+    "FreeVox8",
+    "awesome-audio-plugins-dev"
+  ],
+  "next_platforms": [
+    "GitHub Topics",
+    "Open Hub",
+    "SourceForge",
+    "Validated Awesome Lists",
+    "OpenAlternative",
+    "OpenSourceAlternative.to",
+    "AlternativeTo"
+  ]
+}

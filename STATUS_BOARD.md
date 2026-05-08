@@ -20,11 +20,9 @@
 |---|---|---|---|
 | LibHunt | First public alternative graph / SEO directory | Active | Finish both ecosystem clusters |
 | GitHub Topics | Native GitHub SEO | Pending | Normalize topics across 9 repos |
-| SourceForge | Public project mirrors/listings | Pending | Start with FreeEQ8, FreeVox8, ARC-Core, LLMBuilder |
-| Open Hub | Open-source credibility/indexing | Pending | Add all 9 repos |
-| OpenAlternative | Alternative-to directory | Pending | Submit strongest polished repos |
-| OpenSourceAlternative.to | Alternative-to directory | Pending | Submit FreeEQ8 + ARC tools |
-| AlternativeTo | Large public alternatives graph | Pending | Manual submissions after LibHunt |
-| Awesome Lists | PR-based discovery | Pending | Prepare PR targets after READMEs/topics are clean |
-| Product Hunt / Show HN / Reddit | Launch attention | Pending | Use after directory foundation exists |
-| Editorial Review Outreach | Authority / reviews | Pending | Use for FreeEQ8, FreeVox8, ARC-Core |
+| Open Hub | Open-source credibility indexing | Pending | Add all 9 repos |
+| SourceForge | Project pages / mirrors / releases | Pending | Start with FreeEQ8, FreeVox8, ARC-Core, ARC-Neuron |
+| ARC validated lists | Local LLM / AI agents / self-hosted AI | Pending | Use `platforms/arc-validated-lists.md` |
+| Audio validated lists | JUCE / audio DSP / music production | Pending | Use `platforms/audio-validated-lists.md` |
+| Alternative directories | Public alternatives graph | Pending | OpenAlternative, OpenSourceAlternative.to, AlternativeTo |
+| Launch/community | Community validation | Pending | Show HN, Reddit, Product Hunt after polish |

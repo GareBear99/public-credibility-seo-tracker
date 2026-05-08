@@ -1,45 +1,54 @@
-# [Project Name] Submission Record
+# TizWildinEntertainmentHUB Submission Record
 
 ## Repository
 
-[Repository URL]
+https://github.com/GareBear99/TizWildinEntertainmentHUB
+
+## Cluster
+
+TizWildin Audio
 
 ## Category
 
-[Primary category]
+Music Production Hub / Audio Tools / Sample Packs / Free Plugins
 
 ## Public Description Used
 
-[Description]
+TizWildinEntertainmentHUB is the main public hub for the TizWildin / GareBear99 creator ecosystem, connecting free audio plugins, producer tools, sample packs, visualizers, downloads, updates, and open-source music-production resources in one discovery dashboard.
 
 ## Topics Used
 
-[comma,separated,topics]
+music-production,audio-plugins,free-plugins,vst3,au,juce,dsp,sample-packs,producer-tools,creator-tools,audio-tools,music-tools,open-source-audio,freeeq8,freevox8,voxel-audio,tizwildin,github-pages,web-dashboard
 
 ## Details
 
 | Field | Value |
 |---|---|
-| Official Website URL |  |
-| Official Docs URL |  |
-| Programming Language |  |
-| License |  |
-| Self-Hosted |  |
+| Official Website URL | https://garebear99.github.io/TizWildinEntertainmentHUB/ |
+| Official Docs URL | https://github.com/GareBear99/TizWildinEntertainmentHUB#readme |
+| Programming Language | HTML |
+| License | MIT |
+| Self-Hosted | No |
 
 ## Platforms Submitted
 
 | Platform | Public URL | Status | Date | Notes |
 |---|---|---|---|---|
-| LibHunt |  | Pending |  |  |
+| LibHunt | Pending | Active |  | First FreeEQ8 alternative on LibHunt. |
+| GitHub Topics | Repo Settings/API | Pending |  | Normalize topics after LibHunt graph is complete. |
+| Open Hub | Pending | Pending |  | Add after GitHub topic cleanup. |
 
 ## Alternatives / Cross Links
 
-- [Alternative 1]
-- [Alternative 2]
-- [Alternative 3]
+- FreeEQ8
+- FreeVox8
+- awesome-audio-plugins-dev
 
-## Evidence
+## Next Action
 
-Screenshots and confirmation notes should be saved under:
+Complete the audio LibHunt graph around HUB, FreeEQ8, FreeVox8, and awesome-audio-plugins-dev.
 
-`evidence/screenshots/[project-slug]/`
+## Evidence Path
+
+- Screenshots: `evidence/screenshots/TizWildinEntertainmentHUB/`
+- Confirmations: `evidence/confirmations/TizWildinEntertainmentHUB/`

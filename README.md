@@ -2,7 +2,7 @@
 
 A public credibility, SEO, and directory-submission tracker for the GareBear99 / TizWildin / ARC open-source ecosystem.
 
-This repository documents where each project has been submitted, what metadata was used, which ecosystem links were connected, what alternatives/cross-links were created, and which platform should be handled next.
+This repo documents where each project has been submitted, what metadata was used, which ecosystem links were connected, what alternatives/cross-links were created, what evidence was saved, and which public route should be handled next.
 
 ## Current Focus
 
@@ -38,24 +38,23 @@ This repository documents where each project has been submitted, what metadata w
 
 ## Submission Strategy
 
-The goal is to build public discovery in layers:
-
 1. Submit seed projects.
 2. Add strong descriptions, topics, website links, docs links, language, license, and self-hosted status.
 3. Cross-link the internal ecosystem as alternatives.
-4. Save evidence and public listing URLs.
-5. Move to the next public directory/platform.
+4. Save evidence screenshots and public listing URLs.
+5. Move to GitHub Topics cleanup.
+6. Move to Open Hub, SourceForge, validated awesome lists, and broader public directories.
 
 ## Platform Route Order
 
 1. LibHunt
 2. GitHub Topics cleanup
-3. SourceForge
-4. Open Hub
-5. OpenAlternative
-6. OpenSourceAlternative.to
-7. AlternativeTo
-8. Awesome Lists / GitHub PR routes
+3. Open Hub
+4. SourceForge
+5. Validated awesome lists / GitHub PR routes
+6. OpenAlternative
+7. OpenSourceAlternative.to
+8. AlternativeTo
 9. Product Hunt / Show HN / Reddit launch routes
 10. Editorial and review outreach
 
@@ -67,3 +66,6 @@ The goal is to build public discovery in layers:
 - [`NEXT_STEPS.md`](NEXT_STEPS.md) — immediate action queue
 - [`INTERNAL_NOTES.md`](INTERNAL_NOTES.md) — working notes and current LibHunt state
 - [`platforms/libhunt.md`](platforms/libhunt.md) — LibHunt submission plan and status
+- [`platforms/arc-validated-lists.md`](platforms/arc-validated-lists.md) — ARC list/directory targets
+- [`platforms/audio-validated-lists.md`](platforms/audio-validated-lists.md) — audio list/directory targets
+- [`platforms/github-topics.md`](platforms/github-topics.md) — topic sets for each repo

@@ -4,6 +4,10 @@
 
 https://github.com/GareBear99/FreeEQ8
 
+## Cluster
+
+TizWildin Audio
+
 ## Category
 
 Audio Plugin / EQ / DSP / Music Production
@@ -30,7 +34,9 @@ audio-plugin,vst3,au,juce,cpp,cmake,equalizer,parametric-eq,eq8,dynamic-eq,linea
 
 | Platform | Public URL | Status | Date | Notes |
 |---|---|---|---|---|
-| LibHunt | Pending | Active |  | First audio seed project. Current alternative: TizWildinEntertainmentHUB. |
+| LibHunt | Pending | Active |  | First audio seed project. Current LibHunt alternative started: TizWildinEntertainmentHUB. |
+| GitHub Topics | Repo Settings/API | Pending |  | Normalize topics after LibHunt graph is complete. |
+| Open Hub | Pending | Pending |  | Add after GitHub topic cleanup. |
 
 ## Alternatives / Cross Links
 
@@ -41,3 +47,8 @@ audio-plugin,vst3,au,juce,cpp,cmake,equalizer,parametric-eq,eq8,dynamic-eq,linea
 ## Next Action
 
 Finish LibHunt alternatives by adding FreeVox8 and awesome-audio-plugins-dev.
+
+## Evidence Path
+
+- Screenshots: `evidence/screenshots/FreeEQ8/`
+- Confirmations: `evidence/confirmations/FreeEQ8/`

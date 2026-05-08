@@ -58,8 +58,23 @@ Do not jump platforms until the first LibHunt graph is clean enough:
 - Evidence saved
 - Public listing URLs recorded
 
+## Validated List Strategy
+
+ARC validated lists are tracked in `platforms/arc-validated-lists.md`.
+Audio validated lists are tracked in `platforms/audio-validated-lists.md`.
+GitHub topic sets are tracked in `platforms/github-topics.md`.
+
 ## Next Platform After LibHunt
 
 Move to GitHub Topics cleanup next because it is the easiest native SEO win and can be checked/updated repo-by-repo.
 
-Then move to SourceForge and Open Hub.
+Then move to Open Hub and SourceForge.
+
+## Notes on public messaging
+
+Keep every submission honest and current:
+
+- Say local-first/offline-oriented when that is true.
+- Say planning/prototype where the repo is not production-ready.
+- Do not overclaim model training, AGI, surveillance, or production hardware readiness.
+- Emphasize reproducibility, receipts, deterministic workflows, open-source tooling, and ecosystem structure.

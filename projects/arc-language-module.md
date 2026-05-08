@@ -1,45 +1,55 @@
-# [Project Name] Submission Record
+# arc-language-module Submission Record
 
 ## Repository
 
-[Repository URL]
+https://github.com/GareBear99/arc-language-module
+
+## Cluster
+
+ARC Local AI
 
 ## Category
 
-[Primary category]
+NLP / Linguistics / Language Data / AI Cognition Module
 
 ## Public Description Used
 
-[Description]
+ARC language and cognition module for local AI experiments, covering linguistic structure, transliteration, lineage, phonology, language-learning data, and language-oriented cognition pipelines.
 
 ## Topics Used
 
-[comma,separated,topics]
+nlp,language,linguistics,ai,local-ai,dataset-builder,transliteration,phonology,language-learning,cognition-engine,arc,python,machine-learning,open-source-ai
 
 ## Details
 
 | Field | Value |
 |---|---|
-| Official Website URL |  |
-| Official Docs URL |  |
-| Programming Language |  |
-| License |  |
-| Self-Hosted |  |
+| Official Website URL | https://github.com/GareBear99/arc-language-module |
+| Official Docs URL | https://github.com/GareBear99/arc-language-module#readme |
+| Programming Language | Python |
+| License | MIT |
+| Self-Hosted | Yes |
 
 ## Platforms Submitted
 
 | Platform | Public URL | Status | Date | Notes |
 |---|---|---|---|---|
-| LibHunt |  | Pending |  |  |
+| LibHunt | Pending | Next |  | Needs LibHunt submission after Lucifer runtime. |
+| GitHub Topics | Repo Settings/API | Pending |  | Normalize topics after LibHunt graph is complete. |
+| Open Hub | Pending | Pending |  | Add after GitHub topic cleanup. |
 
 ## Alternatives / Cross Links
 
-- [Alternative 1]
-- [Alternative 2]
-- [Alternative 3]
+- ARC-Neuron-LLMBuilder
+- ARC-Core
+- arc-lucifer-cleanroom-runtime
+- Arc-RAR
 
-## Evidence
+## Next Action
 
-Screenshots and confirmation notes should be saved under:
+Submit to LibHunt; then target NLP/linguistics/python awesome lists after README polish.
 
-`evidence/screenshots/[project-slug]/`
+## Evidence Path
+
+- Screenshots: `evidence/screenshots/arc-language-module/`
+- Confirmations: `evidence/confirmations/arc-language-module/`

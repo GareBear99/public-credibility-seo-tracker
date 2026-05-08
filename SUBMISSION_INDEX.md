@@ -1,16 +1,19 @@
 # Submission Index
 
-| Platform | Category | API / Tracking Angle | Projects | Status | Notes |
-|---|---|---|---|---|---|
-| LibHunt | Open-source directory / alternatives | Public pages; manual submission | ARC + Audio first wave | Active | First credibility/SEO route |
-| GitHub Topics | Native GitHub SEO | GitHub metadata/topics | All 9 repos | Pending | Next after LibHunt |
-| SourceForge | Public project mirrors/listings | Project pages, releases, download stats | FreeEQ8, FreeVox8, ARC-Core, LLMBuilder first | Pending | Strong public project pages |
-| Open Hub | Open-source indexing | Public project indexing/API | All 9 repos | Pending | Credibility and repo analysis |
-| OpenAlternative | Open-source alternatives | Public directory / GitHub-backed flow | Strongest public repos | Pending | Good for alternatives positioning |
-| OpenSourceAlternative.to | Open-source alternatives | Public directory | Strongest public repos | Pending | Good for paid-tool alternative framing |
-| AlternativeTo | Alternatives graph | Public listing; manual | Polished repos | Pending | Large software alternatives audience |
-| Awesome Lists | PR-based discovery | GitHub PRs | Targeted per repo | Pending | Requires polished README / proof |
-| Product Hunt | Launch platform | Manual launch | FreeEQ8 / ARC-Core later | Pending | Use after foundation exists |
-| Hacker News / Show HN | Technical launch | Public search via Algolia | ARC / FreeEQ8 later | Pending | Use with polished demo/release |
-| Reddit Communities | Targeted communities | Manual posts | Audio + AI clusters | Pending | Use carefully, no spam |
-| Editorial Review Outreach | Authority / reviews | Manual email evidence | FreeEQ8, FreeVox8, ARC-Core | Pending | Higher credibility route |
+| Platform | Category | Projects | Status | Notes |
+|---|---|---|---|---|
+| LibHunt | Open-source directory / alternatives graph | ARC + Audio first wave | Active | First credibility/SEO route. Finish internal ecosystem graph first. |
+| GitHub Topics | Native GitHub SEO | All 9 repos | Pending | Use `platforms/github-topics.md`. |
+| Open Hub | Open-source credibility indexing | All 9 repos | Pending | Add after LibHunt and GitHub topics. |
+| SourceForge | Public project mirrors/listings | FreeEQ8, FreeVox8, ARC-Core, ARC-Neuron | Pending | Useful for project pages and releases/downloads. |
+| awesome-local-llm | Curated local LLM list | ARC-Neuron, Lucifer Runtime | Pending | PR/issue after README polish. |
+| awesome-local-ai | Curated local AI list | ARC-Neuron, ARC-Core, Lucifer Runtime | Pending | PR/issue after README polish. |
+| awesome-llm-services | Self-hostable LLM services/tools | ARC-Neuron, Lucifer Runtime, ARC-Core | Pending | PR/issue. |
+| awesome-ai-agents | AI agent list | ARC-Core, ARC-Neuron | Pending | Best after agent/runtime-control framing is clear. |
+| OpenAlternative | Open-source alternative directory | ARC-Core, ARC-Neuron, FreeEQ8, FreeVox8 | Pending | Good after stronger alternative-to sections. |
+| OpenSourceAlternative.to | Open-source alternatives | ARC + Audio | Pending | Good after screenshots/demos. |
+| AlternativeTo | Crowdsourced alternatives graph | ARC + Audio | Pending | Manual. |
+| Audio plugin directories | Music production discovery | FreeEQ8, FreeVox8 | Pending | KVR-style directories after plugin pages are polished. |
+| Reddit communities | Community validation | ARC + Audio | Pending | Use demo story, not cold links. |
+| Show HN | Developer launch | ARC-Core / ARC-Neuron | Pending | Only after clean install/demo. |
+| Editorial Reviews | Credibility outreach | FreeEQ8, FreeVox8 | Pending | SoundOnSound etc. after release pages. |
