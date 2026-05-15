@@ -43,3 +43,22 @@ The public graph should show that each repo belongs to a larger ecosystem, not i
 - Updated `projects/TizWildin-IO.md` with public-facing descriptions, topics, pack catalog, cross-links, and LibHunt submission routing.
 - Added evidence notes under `evidence/notes/tizwildin-io/`.
 - Current rule: finish the primary LibHunt audio graph first, then submit TizWildin-IO as the sample-pack / producer-resource router.
+
+## Public Article / DEV.to Layer
+
+DEV.to now acts as the public long-form explanation layer for the ARC and TizWildin ecosystem.
+
+- Profile: https://dev.to/tizwildin
+- DEV.to tracker repo: https://github.com/GareBear99/dev.to-post-tracker
+
+Role in graph:
+
+```text
+Repo README
+→ DEV.to article
+→ forum/community post
+→ directory/list submission
+→ backlink to repo
+```
+
+This layer should be cross-linked from major project pages where it helps explain architecture, testing calls, technical design, and ecosystem context.

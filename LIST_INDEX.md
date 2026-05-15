@@ -61,3 +61,13 @@ Every new platform gets:
 
 - `platforms/tizwildin-dot-io-ecosystem.md` — corrected public front-door index for the TizWildin `.io` ecosystem page.
 - `platforms/tizwildin-io-website-capture.md` — detailed capture of the public HUB ecosystem page, including plugin sections, sample packs, list routes, and ARC links.
+
+## DEV.to / Long-Form Article Route
+
+| Route | Status | File |
+|---|---|---|
+| DEV.to profile and article tracker | Active | `platforms/devto-post-tracker.md` |
+| DEV.to tracker repo | Active | `projects/dev-to-post-tracker.md` |
+
+Public profile: https://dev.to/tizwildin  
+Tracker repo: https://github.com/GareBear99/dev.to-post-tracker

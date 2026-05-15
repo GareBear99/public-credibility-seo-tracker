@@ -48,3 +48,12 @@
 - Updated `projects/TizWildin-IO.md` with public-facing descriptions, topics, pack catalog, cross-links, and LibHunt submission routing.
 - Added evidence notes under `evidence/notes/tizwildin-io/`.
 - Current rule: finish the primary LibHunt audio graph first, then submit TizWildin-IO as the sample-pack / producer-resource router.
+
+## DEV.to Article Route Status
+
+| Route | Status | Notes |
+|---|---|---|
+| DEV.to profile | Active | https://dev.to/tizwildin |
+| DEV.to post tracker repo | Active | https://github.com/GareBear99/dev.to-post-tracker |
+| Project article set | Active | FreeEQ8, Instrudio, LLMBuilder, AI Desk Meter, ARC-StreamMemory, ARC Language Module, Proto-Synth, ARC Turbo OS, Seeded Universe |
+| Start Here ecosystem hub | Draft/Next | Use as main public profile anchor after publishing. |

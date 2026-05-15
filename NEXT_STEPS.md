@@ -83,3 +83,11 @@ The next LibHunt and directory work should point the audio cluster back to:
 https://garebear99.github.io/TizWildinEntertainmentHUB/
 
 Use this as the main public ecosystem front door, then route out to individual repos, packs, release vault, visualizers, and awesome lists.
+
+## DEV.to Next Steps
+
+1. Publish the Start Here ecosystem hub post.
+2. Add final public DEV.to URLs to `dev.to-post-tracker`.
+3. Cross-link the best DEV.to article from each project README where appropriate.
+4. Use DEV.to URLs as hub links for KVR, JUCE, Gearspace, Facebook, Reddit, and directory submissions.
+5. Keep this tracker and `dev.to-post-tracker` linked both ways.

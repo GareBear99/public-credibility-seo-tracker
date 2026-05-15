@@ -69,6 +69,7 @@ This repo documents where each project has been submitted, what metadata was use
 - [`platforms/arc-validated-lists.md`](platforms/arc-validated-lists.md) — ARC list/directory targets
 - [`platforms/audio-validated-lists.md`](platforms/audio-validated-lists.md) — audio list/directory targets
 - [`platforms/github-topics.md`](platforms/github-topics.md) — topic sets for each repo
+- [`platforms/devto-post-tracker.md`](platforms/devto-post-tracker.md) — DEV.to profile/post tracker route
 
 ## v3 Update: TizWildin Cluster + Indexed Audio Routes
 
@@ -81,3 +82,14 @@ This package now includes the completed TizWildin ecosystem submission cluster p
 - `LIST_INDEX.md`
 
 The current operating rule is: finish the LibHunt graph first, then move to GitHub Topics, Open Hub, SourceForge, KVR Audio, audio plugin databases, awesome-list PRs, and alternative directories.
+
+## DEV.to Route Update
+
+DEV.to is now an active long-form article and SEO route for the ecosystem.
+
+- DEV.to profile: https://dev.to/tizwildin
+- DEV.to post tracker repo: https://github.com/GareBear99/dev.to-post-tracker
+- Platform notes: [`platforms/devto-post-tracker.md`](platforms/devto-post-tracker.md)
+- Project record: [`projects/dev-to-post-tracker.md`](projects/dev-to-post-tracker.md)
+
+Use DEV.to articles as reusable public explanation links for GitHub READMEs, KVR/JUCE/Gearspace posts, Facebook groups, Reddit, directory submissions, and curated-list PRs.
