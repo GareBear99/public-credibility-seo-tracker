@@ -34,7 +34,7 @@ nlp,language,linguistics,ai,local-ai,dataset-builder,transliteration,phonology,l
 
 | Platform | Public URL | Status | Date | Notes |
 |---|---|---|---|---|
-| LibHunt | Pending | Next |  | Needs LibHunt submission after Lucifer runtime. |
+| LibHunt | https://libhunt.com/GareBear99/arc-language-module | LIVE | 2026-11-08 | Page live (18 alternatives, 5 mentions, 2 stars). |
 | GitHub Topics | Repo Settings/API | Pending |  | Normalize topics after LibHunt graph is complete. |
 | Open Hub | Pending | Pending |  | Add after GitHub topic cleanup. |
 
@@ -47,7 +47,7 @@ nlp,language,linguistics,ai,local-ai,dataset-builder,transliteration,phonology,l
 
 ## Next Action
 
-Submit to LibHunt; then target NLP/linguistics/python awesome lists after README polish.
+Page live (verified 2026-11-08). Next: target NLP/linguistics/python awesome lists after README polish.
 
 ## Evidence Path
 

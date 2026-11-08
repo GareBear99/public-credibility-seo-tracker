@@ -34,7 +34,7 @@ archive,backup,compression,developer-tools,reproducibility,local-first,receipts,
 
 | Platform | Public URL | Status | Date | Notes |
 |---|---|---|---|---|
-| LibHunt | Pending | Next |  | Needs LibHunt submission as the archive/reproducibility layer. |
+| LibHunt | https://libhunt.com/GareBear99/Arc-RAR | LIVE | 2026-11-08 | Page live (found in 2026-11-08 sweep; details not yet checked). |
 | GitHub Topics | Repo Settings/API | Pending |  | Normalize topics after LibHunt graph is complete. |
 | Open Hub | Pending | Pending |  | Add after GitHub topic cleanup. |
 
@@ -47,7 +47,7 @@ archive,backup,compression,developer-tools,reproducibility,local-first,receipts,
 
 ## Next Action
 
-Submit to LibHunt; later target archiver/backup/CLI/devtools lists.
+Page live (verified 2026-11-08). Next: target archiver/backup/CLI/devtools lists.
 
 ## Evidence Path
 

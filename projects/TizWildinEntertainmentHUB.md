@@ -28,7 +28,7 @@ music-production,audio-plugins,free-plugins,vst3,au,juce,dsp,sample-packs,produc
 
 | Platform | URL | Status | Date | Notes |
 |---|---|---|---|---|
-| LibHunt | Pending/Added | Submitted | 2026-05-08 | First-wave audio ecosystem listing |
+| LibHunt | https://libhunt.com/GareBear99/TizWildinEntertainmentHUB | LIVE | 2026-11-08 | First-wave audio ecosystem listing (verified live 2026-11-08). |
 
 ## Alternatives / Cross Links
 

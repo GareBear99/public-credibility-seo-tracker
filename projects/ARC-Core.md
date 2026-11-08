@@ -34,7 +34,7 @@ ai,agi,local-ai,offline-ai,deterministic-ai,ai-governance,receipts,event-sourcin
 
 | Platform | Public URL | Status | Date | Notes |
 |---|---|---|---|---|
-| LibHunt | Pending | Active |  | First ARC alternative connected from ARC-Neuron-LLMBuilder. |
+| LibHunt | https://libhunt.com/GareBear99/ARC-Core | LIVE | 2026-11-08 | First ARC alternative connected from ARC-Neuron-LLMBuilder. |
 | GitHub Topics | Repo Settings/API | Pending |  | Normalize topics after LibHunt graph is complete. |
 | Open Hub | Pending | Pending |  | Add after GitHub topic cleanup. |
 
@@ -47,7 +47,7 @@ ai,agi,local-ai,offline-ai,deterministic-ai,ai-governance,receipts,event-sourcin
 
 ## Next Action
 
-Complete LibHunt cross-links, then target AI agents/self-hosted/local AI lists.
+LibHunt cross-links complete (ARC graph, verified 2026-11-08). Next: target AI agents/self-hosted/local AI lists.
 
 ## Evidence Path
 

@@ -34,7 +34,7 @@ awesome-list,audio-plugins,music-production,free-plugins,juce,dsp,vst3,au,produc
 
 | Platform | Public URL | Status | Date | Notes |
 |---|---|---|---|---|
-| LibHunt | Pending | Next |  | Needs LibHunt submission as the resource/discovery layer. |
+| LibHunt | https://libhunt.com/GareBear99/awesome-audio-plugins-dev | LIVE | 2026-11-08 | Page live (21 alternatives, 1 mention, 10 stars). |
 | GitHub Topics | Repo Settings/API | Pending |  | Normalize topics after LibHunt graph is complete. |
 | Open Hub | Pending | Pending |  | Add after GitHub topic cleanup. |
 
@@ -46,7 +46,7 @@ awesome-list,audio-plugins,music-production,free-plugins,juce,dsp,vst3,au,produc
 
 ## Next Action
 
-Submit to LibHunt; then connect as an alternative/resource link to the audio cluster.
+Page live (verified 2026-11-08). Next: suggest as an alternative on the FreeEQ8 / HUB LibHunt pages (browser form; part of the Decision 7 suggestions round).
 
 ## Evidence Path
 

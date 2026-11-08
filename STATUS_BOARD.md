@@ -4,11 +4,11 @@
 
 | Project | LibHunt Submitted | Details Added | Alternatives Added | Evidence Saved | Status |
 |---|---:|---:|---:|---:|---|
-| ARC-Neuron-LLMBuilder | ✅ | ✅ | ARC-Core started | Pending | Active |
-| ARC-Core | ✅ | ✅ | ARC-Neuron started | Pending | Active |
-| arc-lucifer-cleanroom-runtime | Pending | Pending | Pending | Pending | Next |
-| arc-language-module | Pending | Pending | Pending | Pending | Next |
-| Arc-RAR | Pending | Pending | Pending | Pending | Next |
+| ARC-Neuron-LLMBuilder | ✅ | ✅ | ARC graph complete | Pending | Active |
+| ARC-Core | ✅ | ✅ | ARC graph complete | Pending | Active |
+| arc-lucifer-cleanroom-runtime | ✅ | Pending | Pending | Pending | Active |
+| arc-language-module | ✅ | Pending | Pending | Pending | Active |
+| Arc-RAR | ✅ | Pending | Pending | Pending | Active |
 
 ## First-Wave TizWildin / Audio Cluster
 
@@ -17,7 +17,7 @@
 | FreeEQ8 | ✅ | ✅ | HUB started | Pending | Active |
 | TizWildinEntertainmentHUB | ✅ | ✅ | FreeEQ8 started | Pending | Active |
 | FreeVox8 | Pending | Pending | Pending | Pending | Next |
-| awesome-audio-plugins-dev | Pending | Pending | Pending | Pending | Next |
+| awesome-audio-plugins-dev | ✅ | Pending | Pending | Pending | Active |
 
 ## Wave-2 TizWildin Support Cluster
 

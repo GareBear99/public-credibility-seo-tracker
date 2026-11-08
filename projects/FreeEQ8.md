@@ -34,7 +34,7 @@ audio-plugin,vst3,au,juce,cpp,cmake,equalizer,parametric-eq,eq8,dynamic-eq,linea
 
 | Platform | Public URL | Status | Date | Notes |
 |---|---|---|---|---|
-| LibHunt | Pending | Active |  | First audio seed project. Current LibHunt alternative started: TizWildinEntertainmentHUB. |
+| LibHunt | https://libhunt.com/GareBear99/FreeEQ8 | LIVE | 2026-11-08 | First audio seed project. 21 alternatives, 5 mentions, 21 stars; HUB listed as alternative. |
 | GitHub Topics | Repo Settings/API | Pending |  | Normalize topics after LibHunt graph is complete. |
 | Open Hub | Pending | Pending |  | Add after GitHub topic cleanup. |
 
@@ -46,7 +46,7 @@ audio-plugin,vst3,au,juce,cpp,cmake,equalizer,parametric-eq,eq8,dynamic-eq,linea
 
 ## Next Action
 
-Finish LibHunt alternatives by adding FreeVox8 and awesome-audio-plugins-dev.
+FreeVox8 addition is Gary's call (Decision 1); awesome-audio-plugins-dev not yet suggested as an alternative on this page.
 
 ## Evidence Path
 

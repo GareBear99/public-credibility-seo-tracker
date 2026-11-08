@@ -34,7 +34,7 @@ ai,llm,gguf,local-ai,offline-ai,llm-builder,model-training,dataset-builder,cogni
 
 | Platform | Public URL | Status | Date | Notes |
 |---|---|---|---|---|
-| LibHunt | Pending | Active |  | First ARC seed project. Current LibHunt alternative started: ARC-Core. |
+| LibHunt | https://libhunt.com/GareBear99/ARC-Neuron-LLMBuilder | LIVE | 2026-11-08 | First ARC seed project. 11 alternatives, 6 mentions, 14 stars; ARC graph complete as alternatives. |
 | GitHub Topics | Repo Settings/API | Pending |  | Normalize topics after LibHunt graph is complete. |
 | Open Hub | Pending | Pending |  | Add after GitHub topic cleanup. |
 
@@ -47,7 +47,7 @@ ai,llm,gguf,local-ai,offline-ai,llm-builder,model-training,dataset-builder,cogni
 
 ## Next Action
 
-Finish LibHunt alternatives by adding arc-lucifer-cleanroom-runtime, arc-language-module, and Arc-RAR; then target local LLM/local AI lists.
+ARC graph complete as alternatives (verified 2026-11-08). Next: target local LLM/local AI lists.
 
 ## Evidence Path
 

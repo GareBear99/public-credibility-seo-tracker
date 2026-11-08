@@ -34,7 +34,7 @@ ai,llm,local-ai,offline-ai,llm-runtime,inference,gguf,llamafile,cleanroom-runtim
 
 | Platform | Public URL | Status | Date | Notes |
 |---|---|---|---|---|
-| LibHunt | Pending | Next |  | Needs LibHunt submission after ARC-Core. |
+| LibHunt | https://libhunt.com/GareBear99/arc-lucifer-cleanroom-runtime | LIVE | 2026-11-08 | Page live (found in 2026-11-08 sweep; details not yet checked). |
 | GitHub Topics | Repo Settings/API | Pending |  | Normalize topics after LibHunt graph is complete. |
 | Open Hub | Pending | Pending |  | Add after GitHub topic cleanup. |
 
@@ -47,7 +47,7 @@ ai,llm,local-ai,offline-ai,llm-runtime,inference,gguf,llamafile,cleanroom-runtim
 
 ## Next Action
 
-Submit to LibHunt; use ARC-Neuron and ARC-Core as first alternatives.
+Page live (verified 2026-11-08). ARC-Neuron and ARC-Core already listed as alternatives.
 
 ## Evidence Path
 

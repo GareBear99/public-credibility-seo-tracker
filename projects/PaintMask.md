@@ -2,7 +2,7 @@
 
 ## Repository
 
-https://github.com/GareBear99/PaintMask
+https://github.com/GareBear99/PaintMask_Free-JUCE-Plugin
 
 ## Category
 
