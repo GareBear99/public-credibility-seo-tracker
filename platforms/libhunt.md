@@ -17,15 +17,15 @@ LibHunt helps establish:
 
 ### FreeEQ8
 
-- Status: submitted / details started — LIVE at https://libhunt.com/GareBear99/FreeEQ8 (21 alternatives, 5 mentions, 21 stars; verified 2026-11-08)
+- Status: submitted / details complete — LIVE at https://libhunt.com/GareBear99/FreeEQ8 (21 alternatives, 5 mentions, 21 stars; details verified complete 2026-11-08, see Live status below; evidence screenshot still pending)
 - Current alternative: TizWildinEntertainmentHUB
-- Next: add FreeVox8 (Gary's call — list as-is or wait until shippable). awesome-audio-plugins-dev is DONE — live at https://libhunt.com/GareBear99/awesome-audio-plugins-dev (21 alternatives, 1 mention, 10 stars).
+- Next: add FreeVox8 (Gary's call — list as-is or wait until shippable). awesome-audio-plugins-dev is LIVE at https://libhunt.com/GareBear99/awesome-audio-plugins-dev (21 alternatives, 1 mention, 10 stars) but its details are INCOMPLETE — no website URL, no Docs URL, no self-hosted status (see Live status below).
 
 ### ARC-Neuron-LLMBuilder
 
-- Status: submitted / details started — LIVE at https://libhunt.com/GareBear99/ARC-Neuron-LLMBuilder (11 alternatives, 6 mentions, 14 stars; verified 2026-11-08)
+- Status: submitted / details complete — LIVE at https://libhunt.com/GareBear99/ARC-Neuron-LLMBuilder (11 alternatives, 6 mentions, 14 stars; details verified complete 2026-11-08, see Live status below)
 - Current alternative: ARC-Core
-- Next: ARC graph complete as alternatives — arc-lucifer-cleanroom-runtime, arc-language-module, and Arc-RAR all appear as alternatives on the LLMBuilder and ARC-Core pages (verified 2026-11-08). Remaining: finish details per the completion criteria below.
+- Next: ARC graph complete as alternatives — arc-lucifer-cleanroom-runtime, arc-language-module, and Arc-RAR all appear as alternatives on the LLMBuilder and ARC-Core pages (verified 2026-11-08). Details verified complete 2026-11-08 (see Live status below); remaining is the evidence screenshot only.
 
 ## First Wave Project List
 
@@ -74,10 +74,34 @@ LibHunt pages LIVE (36) — checked 2026-11-08 by curl title-marker sweep
 plus browser spot-checks (FreeEQ8, ARC-Neuron-LLMBuilder,
 arc-language-module). The graph is far bigger than the 5 pages recorded
 before this sweep: every Maid/plugin repo and most ARC repos already
-have a page. Details (description / topics / website / docs URL /
-evidence screenshot) are unfinished on the five first-wave pages checked
-in round 1 — that still stands; the newly found pages were checked for
-existence only, not details.
+have a page. Details — per-page verdicts, verified 2026-11-08 ~06:11 PST by live HTML fetch
+of each of the five first-wave pages (all HTTP 200; description, topics,
+website/docs links, language, license, self-hosted statement checked
+field by field against the completion criteria above):
+
+- COMPLETE (4): FreeEQ8, TizWildinEntertainmentHUB, ARC-Neuron-LLMBuilder,
+  ARC-Core. Each shows a public-facing description, topics (FreeEQ8 26,
+  HUB 34, LLMBuilder 26, ARC-Core 30), a website link (FreeEQ8 →
+  github.com/.../releases; HUB → garebear99.github.io; LLMBuilder and
+  ARC-Core → their github.com repo URL), a Docs link (repo #readme),
+  correct language (C++, HTML, Python, Python), correct license
+  (GPL-3.0 only, MIT, MIT, MIT), a "marked as self-hosted" statement,
+  and linked internal alternatives. This is why STATUS_BOARD.md shows
+  Details Added ✅ for these four — the board was right, and the round-1
+  claim in this file that details were "unfinished on all five" was wrong
+  for these four; corrected here.
+- INCOMPLETE (1): awesome-audio-plugins-dev. Description, 15 topics,
+  language (Python), license (GPL-3.0 or later), and alternatives are
+  present — but the links row is Source Code only: NO website URL and
+  NO Docs URL, and the about block has NO "marked as self-hosted"
+  statement. Matches STATUS_BOARD.md's Details Added: Pending. Filling
+  those three fields needs an "Edit details" pass (browser form, no API).
+- Evidence screenshots are a tracker-side artifact, not a LibHunt field,
+  and are still pending for all five — STATUS_BOARD.md's
+  "Evidence Saved: Pending" stands.
+
+The newly found pages beyond the first wave were checked for existence
+only, not details.
 
 First-wave live (5, numbers verified): FreeEQ8 (21 alternatives,
 5 mentions, 21 stars), ARC-Neuron-LLMBuilder (11 alternatives,
